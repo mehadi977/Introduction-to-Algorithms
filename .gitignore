@@ -1,0 +1,16 @@
+# Executable files
+*.exe
+*.out
+*.o
+
+# Debug files
+*.pdb
+*.ilk
+
+# Temporary files
+output.txt
+tempCodeRunnerFile.cpp
+
+# Editor and extension files
+.vscode/
+.cph/
